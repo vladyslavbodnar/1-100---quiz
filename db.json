@@ -1,0 +1,26 @@
+{
+  "quizes": [
+    {
+      "id": 1,
+      "title": "First quiz",
+      "questions": [
+        {
+          "title": "When WW2 started?",
+          "A": "1939",
+          "B": "1941",
+          "C": "1945",
+          "D": "1950",
+          "correctAnswer": "A"
+        },
+        {
+          "title": "Who was the first astronaut?",
+          "A": "Alan Shepard",
+          "B": "Gherman Titov",
+          "C": "Virgil Grissom",
+          "D": "Yuri Gagarin",
+          "correctAnswer": "D"
+        }
+      ]
+    }
+  ]
+}
